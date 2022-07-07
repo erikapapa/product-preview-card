@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And this was based in this frontend mentor challenge - https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-PmfVjj2YKP
 
+UI / CSS Libraries used: 
+- https://mui.com/material-ui/getting-started/overview/
+- https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
 ## Available Scripts
 
 In the project directory, you can run:
