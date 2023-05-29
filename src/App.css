@@ -36,10 +36,10 @@
   color: white
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 1453px) {
   .container .MuiPaper-root {
     border-radius: 7px;
-    max-height: 1000px;
+    max-height: 1000px !important;
     height: initial;
   }
 }
